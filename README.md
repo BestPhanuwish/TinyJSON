@@ -11,16 +11,27 @@ TinyJSON and its test suite is a program dedicated to educational purpose only. 
 
 The scaffold also provide with the [code base](https://edstem.org/au/courses/15196/lessons/52928/slides/359516) (Only USYD student able to access the code base)
 
+## Goals and Knowledge outcome
+
+During the development of this test suite I had gain an understanding of
+- properties based testing in Python
+- Automation in testing
+- Unit testing
+
 ## How to run the test suite
 
 1. Download this repo to your local machine
 2. Open terminal on the directory that you've download this repo
 3. Install Hypothesis and Icontract by type
-'pip install hypothesis' 
+```
+pip install hypothesis'
+```
 and
-'pip install icontract'
+```
+pip install icontract
+```
 in terminal. Note that this assume you had pip install on your machine and if not please try to find a way to install pip otherwise finding other way to install those library on your own.
-4. Run the test suite by type 'python test.py'
+4. Run the test suite by type ```python test.py```
 5. You can see that there's 22 test running in your terminal and message 'OK'
 
 ## Contributor
