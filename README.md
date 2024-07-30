@@ -31,8 +31,8 @@ and
 pip install icontract
 ```
 in terminal. Note that this assume you had pip install on your machine and if not please try to find a way to install pip otherwise finding other way to install those library on your own.
-4. Run the test suite by type ```python test.py```
 
+4. Run the test suite by type ```python test.py```
 5. You can see that there's 22 test running in your terminal and message 'OK'
 
 ## Contributor
